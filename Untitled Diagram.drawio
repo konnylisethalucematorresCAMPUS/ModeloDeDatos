@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T18:58:29.315Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="2X6290D5A-0n3OiABojG" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T22:38:21.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="W6UU5_7bywJ7gyInn5Dl" version="21.6.6" type="github">
   <diagram name="Page-1" id="v_KNb9IIgvCKRsmdT4mX">
-    <mxGraphModel dx="3134" dy="2943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5312" dy="3884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,6 +509,9 @@
         </mxCell>
         <mxCell id="gA-Kbzovyv9Dv5qTg1MU-48" value="&lt;div&gt;Id_Diagnostico&lt;/div&gt;&lt;div&gt;Id_EstadoVehiculo&lt;/div&gt;&lt;div&gt;Id_Vehiculo&lt;/div&gt;&lt;div&gt;Descripcion&lt;/div&gt;&lt;div&gt;FallasDetectadas&lt;br&gt;&lt;/div&gt;&lt;div&gt;CostoReparacion&lt;br&gt;&lt;/div&gt;&lt;div&gt;Id_Empleado&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="gA-Kbzovyv9Dv5qTg1MU-47" vertex="1">
           <mxGeometry x="9" y="35" width="301" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="xy5RpauP7srGhSzX9zFz-1" value="&lt;div&gt;Id_CargoEmpleado&lt;/div&gt;&lt;div&gt;CargoEmpleado&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
